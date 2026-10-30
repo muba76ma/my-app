@@ -9,3 +9,5 @@
 Tiny Vite library starter: `setupCounter(button)` turns a button into a click counter.
 
 Dev `npm run dev` · Test `npm test` · Build `npm run build`
+
+Live demo: https://muba76ma.github.io/my-app/
