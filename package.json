@@ -13,9 +13,14 @@
   ],
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "test": "vitest run"
   },
   "devDependencies": {
-    "vite": "^8.2.2"
-  }
+    "happy-dom": "^21.0.4",
+    "vite": "^8.2.2",
+    "vitest": "^5.0.5"
+  },
+  "description": "Tiny Vite library starter",
+  "repository": "github:muba76ma/my-app"
 }
